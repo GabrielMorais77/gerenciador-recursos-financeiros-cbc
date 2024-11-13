@@ -5,7 +5,7 @@ Este projeto é uma **API RESTful** para gerenciamento de recursos financeiros e
 ## 🛠️ Tecnologias Utilizadas
 
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="PHP" style="vertical-align: middle; width: 28px; height: 28px; border-radius: 50%;"> **8.3**: Foi utilizada a versão 8.3 que oferece maior desempenho e recursos modernos, como tipagem aprimorada e recursos de manipulação de dados.
-- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEWbu3mcu3qcvHqVt3CRtGt+p1KbuX7C0rLO28GXtniGrVzr8Ob///++0K1rmzKXuXT//v6zyZ/I17ro7uKOsmjd5tWmwI3T38iKsGLy9e6Fq16txJaPsm2gu4XD1LRwnjzY4s624ziOAAAA9UlEQVR4AZXPB3bDIBAEUBZ1GFugXhPd/5RZ7EfUU0aF8qniH6FbkSIIAyGvLYqTNMkUcU6oNFwez0hF+Z4oMjDGwBbsZba3KgUj6tQNadqOdhsCKWPjDP0WKVcD8CyBkpG13mCe6R4GDDAHJFK6f+11RhnmSo/Te70GO6TqMStts3fvh8YWZVfayKNB1oNjA+GxHuDRwI5jk3XSH3UGeuXRAP1n+H0RCqIoEh5ZtRo8shLJPSrGTXYYjRWdEYBD1V3MxDjVcLgxj6iVHF4oL3Dp6BonAG1FEYDyiLKzSztICptlmfbkNKgqyUVeVeIiRL74U74ATHAVSsL3f5IAAAAASUVORK5CYII=" alt="Imagem" style="vertical-align: middle; width: 28px; height: 28px; border-radius: 50%;"> **Slim Framework v4**:  Micro-Framework bastante leve e prático para desenvolvimento de APIs RESTful com suporte a rotas dinâmicas e middleware
+- <img src="https://avatars.githubusercontent.com/u/11195762?s=200&v=4" alt="Imagem" style="vertical-align: middle; width: 28px; height: 28px; border-radius: 50%;"> **Slim Framework v4**:  Micro-Framework bastante leve e prático para desenvolvimento de APIs RESTful com suporte a rotas dinâmicas e middleware
 - <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" style="vertical-align: middle; width: 28px; height: 28px; border-radius: 50%;">**MySQL 8.x**:  Banco de dados relacional, ideal para manipulações transacionais, assegurando integridade nos registros de saldo e consumo de recursos.
 
 ## 📦📚 Dependências e Bibliotecass
@@ -148,4 +148,6 @@ Verifique o tipo dos dados enviados (por exemplo, certifique-se de enviar valor_
 **4. Saldo Insuficiente:**
 - Verifique o saldo do clube para assegurar que o valor do consumo solicitado não o levará a um saldo negativo.
 
-**Feito com muito carinho por Gabriel de Morais Rodrigues**
+
+
+ ✨**Feito com muito carinho por Gabriel de Morais Rodrigues**
